@@ -17,3 +17,6 @@ Udacity Developing Android Apps with Kotlin PT2 as part of the Android Developer
 ## Local Use
 You will need to get your own NASA API key at api.nasa.gov. Once you do, all you need to do
 is slap that key into `myApiNasa` in `gradle.properties`
+
+## Screenshots
+Screenshots of the app are available via the screenshots directory
